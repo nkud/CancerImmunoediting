@@ -1,0 +1,12 @@
+bin/
+stat/
+
+html/
+master/
+
+*.swp
+*.tmp
+
+# image
+*.gif
+*.png

@@ -1,0 +1,20 @@
+# tex files
+*.aux
+*.tex
+*.dvi
+*.fdb_latexmk
+*.pdf
+*.log
+*.out
+*.toc
+*.svg
+*.bbl
+*.blg
+document.html
+
+*.html
+
+# emacs temporary file
+.#*
+*~
+*#
